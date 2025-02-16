@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/khushi-kumari-0bb86b257/**
+- 📫 How to reach me **https://khushiportfolio12.netlify.app/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/khushi-kumari-0bb86b257/](https://www.linkedin.com/in/khushi-kumari-0bb86b257/)
 
