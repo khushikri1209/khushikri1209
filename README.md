@@ -1,3 +1,4 @@
+![logo](https://github.com/khushikri1209/khushikri1209/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">**"Turning ideas into code, one commit at a time.** **Always learning, always building."** 🚀</h3>
 
