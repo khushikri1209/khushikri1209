@@ -25,9 +25,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khushikri1209&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khushikri1209&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khushikri1209&theme=aura_dark&hide_border=false&ring=90EE90&fire=90EE90&currStreakNum=90EE90&sideNums=90EE90&currStreakLabel=90EE90&sideLabels=90EE90&dates=90EE90)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushikri1209&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
